@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas!
 
 - 🔭 Cursando Ciência da Computação
-- 🌱 Estudando Html, Css e Javascript
+- 🌱 Estudando Java & Python
 - 🤔 Procuro contribuir com Open Sources para continuar sempre ajudando enquanto aprendo!
 - 💬 Meu discord está aberto para bater um papo e trocar ideias
 - 📫 contate-me no email: coutodesouzalucas@gmail.com
