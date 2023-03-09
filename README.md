@@ -1,10 +1,10 @@
-## Olá, sou o Lucas!
+## Hi, i'm Lucas!
 
-- 🔭 Cursando Ciência da Computação
-- 🌱 Estudando Java & Python
-- 🤔 Procuro contribuir com Open Sources para continuar sempre ajudando enquanto aprendo!
-- 💬 Meu discord está aberto para bater um papo e trocar ideias
-- 📫 contate-me no email: coutodesouzalucas@gmail.com
+- 🔭 Computer Science College
+- 🌱 Java & Python
+- 🤔 Searching open sources projects to contribute.
+- 💬 Feel free to call me on discord!
+- 📫 contact me on email: coutodesouzalucas@gmail.com
 
 <div align="center">
   <a href="https://github.com/lucaskouto">
