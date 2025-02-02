@@ -1,7 +1,7 @@
 ## Hi, i'm Lucas!
 
 - 🔭 Computer Science College
-- 🌱 C# & Python
+- 🌱 Java Developer
 - 🤔 Searching open sources projects to contribute.
 - 💬 Feel free to call me on discord!
 - 📫 contact me on email: coutodesouzalucas@gmail.com
